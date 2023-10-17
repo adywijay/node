@@ -1,0 +1,4 @@
+parameter pada setiap pemanggilan value query : 
+    contoh : SELECT * FROM customers WHERE id = ? OR address = ? ===========> sehabis tanda ?
+
+    maka parameter nilainya harus function [param1, param2]
